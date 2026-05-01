@@ -1,15 +1,120 @@
-# 💫 About Me:
- I’m currently working on<br><br>Membangun website modern dengan animasi interaktif dan tampilan UI/UX yang lebih clean dan profesional.<br><br> I’m looking to collaborate on<br><br>Project website frontend, landing page, portfolio modern, dan aplikasi berbasis React/Next.js.<br><br> I’m currently learning<br><br>React.js, Next.js, TypeScript, TailwindCSS, animasi GSAP & Framer Motion.<br><br> Ask me about<br><br>Frontend development, UI/UX layouting, responsive design, dan cara membuat animasi keren di website.<br><br> I’m looking for help with<br><br>Meningkatkan skill backend (PHP, Node.js) dan integrasi API untuk aplikasi full-stack.
+<!-- 🔥 HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00f7ff&height=200&section=header&text=Fauzan%20Dzaki&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- ⚡ HERO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+Interactive+Web;Next.js+Specialist;UI%2FUX+Focused" />
+</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fauzanDev-id&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fauzanDev-id&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanDev-id&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>⚡ Scroll down & explore ⚡</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fauzanDev-id&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 About Me
+
+<details open>
+<summary>👨‍💻 Who am I?</summary>
+
+- Building modern web with smooth animations  
+- Focus on clean UI/UX & interaction  
+- Open for frontend collaboration  
+- Learning backend (Node.js & API)  
+
+</details>
+
+---
+
+# 🚀 Tech Stack
+
+<details>
+<summary>⚡ Click to expand</summary>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,php,laravel,firebase,docker,nginx,git,github" />
+</p>
+
+</details>
+
+---
+
+# 📊 GitHub Analytics
+
+<details open>
+<summary>📈 My Stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzanDev-id&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanDev-id&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+</details>
+
+---
+
+# 🐍 Contribution Snake
+
+<details>
+<summary>🔥 See animation</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fauzanDev-id/fauzanDev-id/output/snake.svg" />
+</p>
+
+</details>
+
+---
+
+# 🧊 3D Contribution
+
+<details>
+<summary>🌌 Open 3D Graph</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fauzanDev-id/fauzanDev-id/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+</details>
+
+---
+
+# 📈 Activity Graph
+
+<details>
+<summary>📊 View activity</summary>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzanDev-id&theme=tokyo-night&hide_border=true" />
+</p>
+
+</details>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/fauzanDev-id">
+    <img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<!-- ⚡ FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:0f2027&height=2"/>
+</p>
+
+<p align="center">
+  <b>⚡ "I build interfaces that feel alive." ⚡</b>
+</p>
