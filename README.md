@@ -28,19 +28,14 @@
 
 # Tech Stack
 
-<summary>⚡ Click to expand</summary>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,php,laravel,firebase,docker,nginx,git,github" />
 </p>
 
-</details>
 
 ---
 
 # GitHub Analytics
-
-<summary> My Stats</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fauzanDev-id&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -52,16 +47,12 @@
 
 # Contribution
 
-<summary>🔥 See animation</summary>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/fauzanDev-id/fauzanDev-id/output/snake.svg" />
 </p>
 
 
 # Activity Graph
-
-<summary> View activity</summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzanDev-id&theme=tokyo-night&hide_border=true" />
