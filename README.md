@@ -50,7 +50,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution
 
 <summary>🔥 See animation</summary>
 
@@ -59,9 +59,9 @@
 </p>
 
 
-# 📈 Activity Graph
+# Activity Graph
 
-<summary>📊 View activity</summary>
+<summary> View activity</summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzanDev-id&theme=tokyo-night&hide_border=true" />
@@ -70,7 +70,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://github.com/fauzanDev-id">
