@@ -14,23 +14,20 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
-<details open>
-<summary>👨‍💻 Who am I?</summary>
+<summary> Who am I?</summary>
 
 - Building modern web with smooth animations  
 - Focus on clean UI/UX & interaction  
 - Open for frontend collaboration  
 - Learning backend (Node.js & API)  
 
-</details>
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-<details>
 <summary>⚡ Click to expand</summary>
 
 <p align="center">
@@ -41,56 +38,35 @@
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
-<details open>
-<summary>📈 My Stats</summary>
+<summary> My Stats</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fauzanDev-id&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanDev-id&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-</details>
 
 ---
 
 # 🐍 Contribution Snake
 
-<details>
 <summary>🔥 See animation</summary>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fauzanDev-id/fauzanDev-id/output/snake.svg" />
 </p>
 
-</details>
-
----
-
-# 🧊 3D Contribution
-
-<details>
-<summary>🌌 Open 3D Graph</summary>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fauzanDev-id/fauzanDev-id/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-</details>
-
----
 
 # 📈 Activity Graph
 
-<details>
 <summary>📊 View activity</summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzanDev-id&theme=tokyo-night&hide_border=true" />
 </p>
 
-</details>
 
 ---
 
