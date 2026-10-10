@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="I build interfaces that feel alive.">
-<defs><linearGradient id="f" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#f5c451" stop-opacity="0"/><stop offset=".5" stop-color="#f5c451"/><stop offset="1" stop-color="#f5c451" stop-opacity="0"/></linearGradient></defs>
-<line x1="0" y1="20" x2="1200" y2="20" stroke="url(#f)" stroke-width="1"/>
-<circle r="3" cy="20" fill="#ffe9a8"><animate attributeName="cx" from="0" to="1200" dur="6s" repeatCount="indefinite"/></circle>
-<text x="600" y="68" text-anchor="middle" fill="#c9ccd6" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-style="italic">I build interfaces that feel alive.</text>
-<text x="600" y="98" text-anchor="middle" fill="#9aa0ae" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="4">© 2026  FAUZAN DZAKI</text></svg>
