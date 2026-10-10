@@ -6,6 +6,7 @@ on:
       - assets/avatar-3d.png
       - assets/hero.template.svg
       - embed-avatar.js
+      - .github/workflows/build-hero.yml
   workflow_dispatch:
 
 permissions:
@@ -14,17 +15,64 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm install --no-save sharp
-      - run: node embed-avatar.js assets/avatar-3d.png
-      - name: Commit hero.svg
+
+      - name: Verify required files
+        run: |
+          test -f assets/avatar-3d.png || {
+            echo "ERROR: assets/avatar-3d.png tidak ditemukan"
+            exit 1
+          }
+
+          test -f assets/hero.template.svg || {
+            echo "ERROR: assets/hero.template.svg tidak ditemukan"
+            exit 1
+          }
+
+          test -f embed-avatar.js || {
+            echo "ERROR: embed-avatar.js tidak ditemukan"
+            exit 1
+          }
+
+      - name: Install Sharp
+        run: npm install --no-save sharp
+
+      - name: Embed avatar into hero.svg
+        run: node embed-avatar.js assets/avatar-3d.png
+
+      - name: Verify generated SVG
+        run: |
+          test -s assets/hero.svg || {
+            echo "ERROR: assets/hero.svg tidak berhasil dibuat"
+            exit 1
+          }
+
+          grep -q 'data:image/' assets/hero.svg || {
+            echo "ERROR: Tidak ditemukan gambar embedded di hero.svg"
+            exit 1
+          }
+
+          echo "Hero SVG berhasil dibuat dan memuat gambar embedded."
+
+      - name: Commit generated SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/hero.svg
-          git commit -m "chore: embed avatar into hero" || exit 0
+
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan pada hero.svg."
+            exit 0
+          fi
+
+          git commit -m "chore: embed avatar into hero"
           git push
