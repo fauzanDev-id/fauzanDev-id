@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="CONTRIBUTIONS">
-<defs><linearGradient id="l" gradientUnits="userSpaceOnUse" x1="338" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#f5c451"/><stop offset="1" stop-color="#f5c451" stop-opacity="0"/></linearGradient></defs>
-<text x="0" y="37" fill="#f5c451" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="2">04</text>
-<text x="44" y="38" fill="#ffffff" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="6">CONTRIBUTIONS</text>
-<line x1="338" y1="28" x2="338" y2="28" stroke="url(#l)" stroke-width="1"><animate attributeName="x2" from="338" to="1200" dur="1.4s" fill="freeze"/></line>
-</svg>
